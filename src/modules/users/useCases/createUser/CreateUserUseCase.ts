@@ -1,5 +1,8 @@
 import { User } from "../../model/User";
-import { IUsersRepository } from "../../repositories/IUsersRepository";
+import {
+  ICreateUserDTO,
+  IUsersRepository,
+} from "../../repositories/IUsersRepository";
 
 interface IRequest {
   name: string;
@@ -9,8 +12,10 @@ interface IRequest {
 class CreateUserUseCase {
   constructor(private usersRepository: IUsersRepository) {}
 
-  execute({ email, name }: IRequest): User {
-    // Complete aqui
+  execute({ name, email }: IRequest): User {
+    const dto: ICreateUserDTO = { name, email };
+    const user = this.usersRepository.create(dto);
+    return user;
   }
 }
 
