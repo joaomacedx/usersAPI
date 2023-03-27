@@ -1,8 +1,7 @@
 # usersAPI
 This is an application for listing and registering users. For user listing to work, the user requesting the listing must be an admin. 
-##  UsersAPI 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/usersAPI?style=flat">
-<img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-orange">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/usersAPI?style=flat" align="center">
+<img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-orange" align="center">
 
 UsersAPI is an application for listing and registering users, where you can perform the following actions:
 
