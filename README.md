@@ -22,7 +22,7 @@ This project was developed with the following technologies::
 - NodeJS
 - Express
 
-## 📚 Docs
+## 📚 Docs 📚
 
   ```bash
 # After starting the server, go to:
@@ -30,7 +30,7 @@ This project was developed with the following technologies::
 http://localhost:3333/api-docs
 ```
 
-## 🚀 How to run
+## 🚀 How to run 🚀
 
 Clone the project and access its folder.
 
