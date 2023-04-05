@@ -48,3 +48,9 @@ $ yarn
 $ yarn dev
 ```
 ---
+## ✅ How to Test ✅
+
+```bash
+$ cd src
+$ npm run test
+```
