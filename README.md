@@ -1,11 +1,16 @@
-# 👤 usersAPI 👤 
+<div align="center">
+   <h1>👤 usersAPI 👤 </h1>
+ </div>
 This is an application for listing and registering users. For user listing to work, the user requesting the listing must be an admin. 
+
 <div align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaomacedx/usersAPI?style=flat" >
   <img alt="Made by João Macêdo" src="https://img.shields.io/badge/made%20by-João%20Macêdo-orange">
  </div>
 
+
 UsersAPI is an application for listing and registering users, where you can perform the following actions:
+
 
   - It is possible to create a user
   - It is possible to list all users, in case the user is an administrator
@@ -22,7 +27,7 @@ This project was developed with the following technologies::
 - NodeJS
 - Express
 
-## 📚 Docs
+## 📚 Docs 📚
 
   ```bash
 # After starting the server, go to:
@@ -30,7 +35,7 @@ This project was developed with the following technologies::
 http://localhost:3333/api-docs
 ```
 
-## 🚀 How to run
+## 🚀 How to run 🚀
 
 Clone the project and access its folder.
 
@@ -48,3 +53,9 @@ $ yarn
 $ yarn dev
 ```
 ---
+## ✅ How to Test ✅
+
+```bash
+$ cd src
+$ yarn test
+```
