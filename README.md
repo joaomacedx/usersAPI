@@ -52,5 +52,5 @@ $ yarn dev
 
 ```bash
 $ cd src
-$ npm run test
+$ yarn test
 ```
