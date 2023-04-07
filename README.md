@@ -21,7 +21,7 @@ UsersAPI is an application for listing and registering users, where you can perf
 
 ## 🛠 Technologies
 
-This project was developed with the following technologies::
+This project was developed with the following technologies:
 
 - TypeScript
 - NodeJS
